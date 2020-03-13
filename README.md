@@ -1,4 +1,4 @@
-# ApontarReferenciaParaProjetoLocal
+# Apontar Referencia Para Projeto Local
 Me deparei com o problema de precisar fazer uma referência para um projeto local pelo VS Code
 
 Achei a seguinte referência:
